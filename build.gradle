@@ -19,8 +19,8 @@ task clean(type: Delete) {
 }
 
 ext {
-    userOrg = 'yarolegovich'
-    groupId = 'com.yarolegovich'
+    userOrg = 'biko2002you'
+    groupId = 'com.inspire'
     uploadName = 'DiscreteScrollView'
     description = 'Scrollable list of items, where current item is centered and can be changed using swipes.'
     publishVersion = '1.1.4'
