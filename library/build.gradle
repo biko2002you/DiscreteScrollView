@@ -20,8 +20,8 @@ dependencies {
 
 publish {
     artifactId = 'discrete-scrollview'
-    userOrg = rootProject.userOrg
-    groupId = rootProject.groupId
+    userOrg = 'biko2002you'
+    groupId = 'com.inspire'
     uploadName = rootProject.uploadName
     publishVersion = rootProject.publishVersion
     description = rootProject.description
